@@ -1,0 +1,25 @@
+{
+  "name": "style-sorter",
+  "version": "1.0.5",
+  "description": "",
+  "main": "sorter.js",
+  "bin": {
+    "style-sorter": "index.js"
+  },
+  "dependencies": {
+    "commander": "2.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bstuff/style-sorter.git"
+  },
+  "keywords": [
+    "formatting"
+  ],
+  "author": "Andrew Lavrentev <andrew.lavrentev@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/bstuff/style-sorter"
+}
